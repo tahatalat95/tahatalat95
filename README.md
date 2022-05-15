@@ -1,10 +1,10 @@
 <h1 align="center">Hi there👋, i'm Taha Talaat 9️⃣5️⃣ </h1>
 <h3 align="center">Medical Informatics student from Egypt</h3>
 <div id="header" align="center">
-  <img src="http://www.89a.co.uk/post/60629423554/acid"/>
+  <img src="https://media0.giphy.com/media/TyQY0zTXX4x0c/giphy.gif?cid=ecf05e47yt52679lny87s4f748ipz2gzfyd9mmw1rja4ft2h&rid=giphy.gif&ct=g"/>
 </div >
 <div align="center" id="badges">
-  <a  href="https://media0.giphy.com/media/TyQY0zTXX4x0c/giphy.gif?cid=ecf05e47yt52679lny87s4f748ipz2gzfyd9mmw1rja4ft2h&rid=giphy.gif&ct=g">
+  <a  href="">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="https://twitter.com/tahatalat95">
