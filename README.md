@@ -11,7 +11,7 @@
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=tahatalat95&label=Profile%20views&color=0e75b6&style=flat" alt="tahatalat95" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=tahatalat95&label=Profile%20views&color=0e75b6&style=flat" alt="tahatalat95" /> </p>
 </p>
 <div align="center" >
   
