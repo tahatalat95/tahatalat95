@@ -1,4 +1,4 @@
-<h1 align="center">Hi there👋, i'm Taha Talaat 9️⃣5️⃣ </h1>
+<h1 class="animate__animated animate__bounce"align="center">Hi there👋, i'm Taha Talaat 9️⃣5️⃣ </h1>
 <h3 align="center">Medical Informatics student from Egypt</h3>
 <head>
   <link
