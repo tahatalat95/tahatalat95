@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Taha Talaat Taha</h1>
+<h1 align="center">Hi there👋, i'm @tahatalat95 </h1>
 <h3 align="center">Medical Informatics student from Egypt</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tahatalat95&label=Profile%20views&color=0e75b6&style=flat" alt="tahatalat95" /> </p>
