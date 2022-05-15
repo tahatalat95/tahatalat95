@@ -17,6 +17,7 @@
   
   ![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=tahatalat95&theme=github-dark-blue&date_format=M%20j%5B%2C%20Y%5D)
   
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tahatalat95)](https://github.com/anuraghazra/github-readme-stats)
 </div>
 - 🌱 I’m currently learning **AI (Theory of Mind), Data Structures, Medical Digital Transformation, Software Engineering, Project Management**
 
@@ -35,4 +36,4 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
-(https://github-readme-stats.vercel.app/api/top-langs/?username=tahatalat95)](https://github.com/anuraghazra/github-readme-stats)
+
