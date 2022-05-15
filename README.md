@@ -1,7 +1,7 @@
 <h1 align="center">Hi there👋, i'm Taha Talaat 9️⃣5️⃣ </h1>
 <h3 align="center">Medical Informatics student from Egypt</h3>
 <div id="header" align="center">
-  <img src="https://media4.giphy.com/media/2mBk7XbITXRII/giphy.gif?cid=ecf05e47sc2n3mtyrfz5gl0qrx3rpxm1vew9ma331f8fluo4&rid=giphy.gif&ct=g"/>
+  <img src="http://www.89a.co.uk/post/60629423554/acid"/>
 </div >
 <div align="center" id="badges">
   <a  href="https://www.linkedin.com/in/tahatalat95/">
