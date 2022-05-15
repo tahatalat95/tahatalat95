@@ -1,4 +1,4 @@
-<h1align="center">Hi there👋, i'm Taha Talaat 9️⃣5️⃣ </h1>
+<h1 align="center">Hi there👋, i'm Taha Talaat 9️⃣5️⃣ </h1>
 <h3 align="center">Medical Informatics student from Egypt</h3>
 <h1 class="animate__animated animate__bounce">hello</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tahatalat95&label=Profile%20views&color=0e75b6&style=flat" alt="tahatalat95" /> </p>
