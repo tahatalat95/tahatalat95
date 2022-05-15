@@ -34,9 +34,7 @@
 
 <div align="center" >
   
-  <a >
-    ### :fire: My Stats :
-      <[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=tahatalat95&theme=blux&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+  <a href= http://github-readme-streak-stats.herokuapp.com?user=tahatalat95&theme=blux&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats>
   </a>
 </div>
 
