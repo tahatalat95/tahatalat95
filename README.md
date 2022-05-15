@@ -1,7 +1,7 @@
 <h1 align="center">Hi there👋, i'm Taha Talaat 9️⃣5️⃣ </h1>
 <h3 align="center">Medical Informatics student from Egypt</h3>
 <div id="header" align="center">
-  <img src="https://media0.giphy.com/media/TyQY0zTXX4x0c/giphy.gif?cid=ecf05e47yt52679lny87s4f748ipz2gzfyd9mmw1rja4ft2h&rid=giphy.gif&ct=g"/>
+  <img src="https://media2.giphy.com/media/Kfl09udXYhbjajJwEt/giphy.gif"/>
 </div >
 <div align="center" id="badges">
   <a  href="">
