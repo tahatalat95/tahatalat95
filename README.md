@@ -6,7 +6,6 @@
 - 📫 How to reach me **tahatalattaha95@gmail.com**
 
 - ⚡ Fun fact **it is all about MIND**
-<img align="right" height="150" src="https://raw.githubusercontent.com/tahatalat95/tahatalat95/output/snake.svg"  />
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/tahatalat95" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="tahatalat95" height="30" width="40" /></a>
