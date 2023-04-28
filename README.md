@@ -11,10 +11,7 @@
   <a href="https://twitter.com/tahatalat95">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
-</div>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=tahatalat95&label=Profile%20views&color=0e75b6&style=flat" alt="tahatalat95" /> </p>
-</p>
-<div align="center" >
+
   
   ![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=tahatalat95&theme=github-dark-blue&date_format=M%20j%5B%2C%20Y%5D)
   
