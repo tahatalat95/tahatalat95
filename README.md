@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Taha</h1>
 <div align="center">
-  <a href="https://tahatalat95.github.io/1999AZZAR/">
+  <a href="https://tahatalat95.github.io/tahatalat95/">
   <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
        alt="snake" /></a>
 </div>
