@@ -13,7 +13,7 @@
 
 - ⚡ Fun fact **it is all about MIND**
 
-<p align="center"><img src="https://profile-counter.glitch.me/{tahatalat95}/count.svg" alt="tahatalat95 :: Visitor's Count" /></p>
+
 
 
 <h3 align="left">Connect with me:</h3>
@@ -33,3 +33,6 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=tahatalat95&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
+
+
+<p align="center"><img src="https://profile-counter.glitch.me/{tahatalat95}/count.svg" alt="tahatalat95 :: Visitor's Count" /></p>
