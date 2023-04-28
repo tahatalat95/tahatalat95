@@ -13,7 +13,7 @@
 
 - ⚡ Fun fact **it is all about MIND**
 
-<p align="center"><img src="https://profile-counter.glitch.me/{AnhellO}/count.svg" alt="AnhellO :: Visitor's Count" /></p>
+<p align="center"><img src="https://profile-counter.glitch.me/{tahatalat95}/count.svg" alt="tahatalat95 :: Visitor's Count" /></p>
 
 
 <h3 align="left">Connect with me:</h3>
